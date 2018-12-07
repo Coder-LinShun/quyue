@@ -1,8 +1,5 @@
-# Code-linshun
 
 ### 技术栈
-
-#### 前台
 > * vue
 > * vue-router
 > * vuex
