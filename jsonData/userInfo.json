@@ -1,17 +1,16 @@
 //用户详情
 {
   "data": {
-    "universities": "东理",
+    "universities": "湖南工程",
     "sex": "男",
     "nickname": "哈哈",
-    "username": "18679168426",
+    "username": "18607315374",
     "emailVerified": false,
-    "mobilePhoneNumber": "18679168426",
-    "avatar": "http://ac-aFkydcqQ.clouddn.com/a96b23926358c9999112.jpg",
+    "mobilePhoneNumber": "18607315374",
     "mobilePhoneVerified": true,
     "objectId": "5836c4ea67f3560065f52b5d",
-    "createdAt": "2016-11-24T10:46:02.407Z",
-    "updatedAt": "2017-02-21T14:54:27.169Z"
+    "createdAt": "2018-11-24T10:46:02.407Z",
+    "updatedAt": "2018-12-09T14:54:27.169Z"
   },
   "success": true
 }
