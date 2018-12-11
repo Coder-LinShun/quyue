@@ -8,7 +8,6 @@
 > * localStorage
 > * webpack
 
-### [具体详情](https://hzzly.github.io/2017/03/08/%E8%BF%9B%E9%98%B6vue%E5%85%A8%E5%AE%B6%E6%A1%B6/)
 
 ## Build Setup
 
@@ -22,4 +21,3 @@ npm run dev
 # build for production with minification
 npm run build
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
